@@ -2,10 +2,6 @@
 - :turtle: My name is Kwangyun Keum, a new Grad as of June 2023.
 - 🌱 I’m currently learning Offensive Security/Penetration Testing and would like to break into the field of cyber security
 - :heart: Hobbies: Philosophy, Aquascaping, Starcraft, Soccer, Baseball
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kwangyun&theme=vue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kwangyun&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwangyun&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
