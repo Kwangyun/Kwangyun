@@ -1,7 +1,7 @@
 ### Hi :smile: 👋
 - :turtle: My name is Kwang Keum, a new Grad as of June 2023.
 - 🌱 Junior Information Security Consultant Intern
--  Deep passion for Offensive Security and Penetration Testing
+-  trident: Deep passion for Offensive Security and Penetration Testing
 - :heart: Hobbies: Aquascaping, Soccer, Baseball
 
 ### ✍️
