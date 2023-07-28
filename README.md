@@ -1,6 +1,6 @@
 ### whoami /groups  👋
 - :turtle: My name is Kwang Keum, a new Grad as of June 2023 :trident:
-- 🌱 Junior Information Security Consultant Intern
+- 🌱 Junior Information Security Consultant (Intern)
 -  :fire: Deep passion for Offensive Security and Penetration Testing
 - :heart: Hobbies: Aquascaping, Soccer, Baseball
 
