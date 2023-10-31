@@ -1,5 +1,6 @@
 ### whoami /groups  👋
 - :turtle: My name is Kwang Keum, a new Grad as of June 2023 :trident:
+-  :fire: Security Consulting Intern -> Software Security Engineer (current)
 -  :fire: Deep passion for Offensive Security and Penetration Testing
 
 ### ✍️
